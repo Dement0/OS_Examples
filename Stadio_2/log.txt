@@ -1,0 +1,78 @@
+50 tickets rilasciati ad R0; -> 950 tickets ancora disponibili.
+50 tickets rilasciati ad R1; -> 900 tickets ancora disponibili.
+50 tickets rilasciati ad R2; -> 850 tickets ancora disponibili.
+50 tickets rilasciati ad R3; -> 800 tickets ancora disponibili.
+50 tickets rilasciati ad R4; -> 750 tickets ancora disponibili.
+-- C0 chiede 20 biglietti ad R3
+Coda carta di R3: C[0]
+Coda contanti di R3: C[]
+-- C1 chiede 24 biglietti ad R3
+-- C0 ha ottenuto 20 biglietti.
+Coda carta di R3: C[]
+Coda contanti di R3: C[]
+-- C2 chiede 43 biglietti ad R1
+Coda carta di R1: C[2]
+Coda contanti di R1: C[]
+-- C2 ha ottenuto 43 biglietti.
+Coda carta di R1: C[]
+Coda contanti di R1: C[]
+-- C3 chiede 13 biglietti ad R4
+Coda carta di R4: C[3]
+Coda contanti di R4: C[]
+-- C3 ha ottenuto 13 biglietti.
+Coda carta di R4: C[]
+Coda contanti di R4: C[]
+-- C4 chiede 40 biglietti ad R3
+-- C5 chiede 20 biglietti ad R4
+-- C6 chiede 43 biglietti ad R3
+-- C7 chiede 29 biglietti ad R3
+-- C8 chiede 45 biglietti ad R2
+Coda carta di R2: C[8]
+Coda contanti di R2: C[]
+-- C8 ha ottenuto 45 biglietti.
+Coda carta di R2: C[]
+Coda contanti di R2: C[]
+-- C9 chiede 37 biglietti ad R3
+Coda carta di R4: C[5]
+Coda contanti di R4: C[]
+-- C5 ha ottenuto 20 biglietti.
+Coda carta di R4: C[]
+Coda contanti di R4: C[]
+Coda carta di R3: C[9]
+Coda contanti di R3: C[]
+-- C9 ha ottenuto soltanto 30 di 37 biglietti - aspetta rifornimento.
+R3 non ha abbastanza biglietti disponibili.
+50 tickets rilasciati ad R3; -> 700 tickets ancora disponibili.
+R3 ha ottenuto un lotto
+-- C9 ha ottenuto 7 biglietti.
+Coda carta di R3: C[]
+Coda contanti di R3: C[]
+Coda carta di R3: C[]
+Coda contanti di R3: C[7]
+-- C7 ha ottenuto 29 biglietti.
+Coda carta di R3: C[]
+Coda contanti di R3: C[]
+Coda carta di R3: C[6]
+Coda contanti di R3: C[]
+-- C6 ha ottenuto soltanto 14 di 43 biglietti - aspetta rifornimento.
+R3 non ha abbastanza biglietti disponibili.
+50 tickets rilasciati ad R3; -> 650 tickets ancora disponibili.
+R3 ha ottenuto un lotto
+-- C6 ha ottenuto 29 biglietti.
+Coda carta di R3: C[]
+Coda contanti di R3: C[]
+Coda carta di R3: C[]
+Coda contanti di R3: C[4]
+-- C4 ha ottenuto soltanto 21 di 40 biglietti - aspetta rifornimento.
+R3 non ha abbastanza biglietti disponibili.
+50 tickets rilasciati ad R3; -> 600 tickets ancora disponibili.
+R3 ha ottenuto un lotto
+-- C4 ha ottenuto 19 biglietti.
+Coda carta di R3: C[]
+Coda contanti di R3: C[]
+Coda carta di R3: C[1]
+Coda contanti di R3: C[]
+-- C1 ha ottenuto 24 biglietti.
+Coda carta di R3: C[]
+Coda contanti di R3: C[]
+
