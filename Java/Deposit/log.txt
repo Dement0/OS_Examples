@@ -1,0 +1,207 @@
+Created customer #0 with 1 luggages.
+Added customer #0 to queue.
+Created customer #1 with 5 luggages.
+Customer #0 left his/her luggage.
+Added customer #1 to queue.
+Created customer #2 with 1 luggages.
+Customer #1 left his/her luggage.
+Added customer #2 to queue.
+Created customer #3 with 8 luggages.
+Customer #2 left his/her luggage.
+Added customer #3 to queue.
+Created customer #4 with 4 luggages.
+Customer #3 left his/her luggage.
+Added customer #4 to queue.
+Created customer #5 with 2 luggages.
+Customer #4 left his/her luggage.
+Added customer #5 to queue.
+Created customer #6 with 3 luggages.
+Customer #5 left his/her luggage.
+Added customer #6 to queue.
+Created customer #7 with 4 luggages.
+Customer #6 left his/her luggage.
+Added customer #7 to queue.
+Created customer #8 with 4 luggages.
+No space or queue breach! Customer #7 waits.
+Added customer #8 to queue.
+Created customer #9 with 2 luggages.
+No space or queue breach! Customer #8 waits.
+Added customer #9 to queue.
+Created customer #10 with 9 luggages.
+No space or queue breach! Customer #9 waits.
+Added customer #10 to queue.
+Created customer #11 with 5 luggages.
+No space or queue breach! Customer #10 waits.
+Added customer #11 to queue.
+Created customer #12 with 2 luggages.
+No space or queue breach! Customer #11 waits.
+Added customer #12 to queue.
+Created customer #13 with 8 luggages.
+No space or queue breach! Customer #12 waits.
+Added customer #13 to queue.
+Created customer #14 with 9 luggages.
+No space or queue breach! Customer #13 waits.
+Added customer #14 to queue.
+Created customer #15 with 7 luggages.
+No space or queue breach! Customer #14 waits.
+Added customer #15 to queue.
+Created customer #16 with 4 luggages.
+No space or queue breach! Customer #15 waits.
+Added customer #16 to queue.
+Created customer #17 with 6 luggages.
+No space or queue breach! Customer #16 waits.
+Added customer #17 to queue.
+Created customer #18 with 6 luggages.
+No space or queue breach! Customer #17 waits.
+Added customer #18 to queue.
+Created customer #19 with 3 luggages.
+No space or queue breach! Customer #18 waits.
+Added customer #19 to queue.
+No space or queue breach! Customer #19 waits.
+Customer #5 got his/her luggage back.
+No space or queue breach! Customer #7 waits.
+No space or queue breach! Customer #19 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #13 waits.
+No space or queue breach! Customer #12 waits.
+No space or queue breach! Customer #11 waits.
+No space or queue breach! Customer #10 waits.
+No space or queue breach! Customer #9 waits.
+No space or queue breach! Customer #8 waits.
+Customer #6 got his/her luggage back.
+Customer #7 left his/her luggage.
+No space or queue breach! Customer #8 waits.
+No space or queue breach! Customer #9 waits.
+No space or queue breach! Customer #10 waits.
+No space or queue breach! Customer #11 waits.
+No space or queue breach! Customer #12 waits.
+No space or queue breach! Customer #13 waits.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #19 waits.
+Customer #1 got his/her luggage back.
+Customer #8 left his/her luggage.
+No space or queue breach! Customer #19 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #13 waits.
+No space or queue breach! Customer #12 waits.
+No space or queue breach! Customer #11 waits.
+No space or queue breach! Customer #10 waits.
+Customer #9 left his/her luggage.
+No space or queue breach! Customer #19 waits.
+No space or queue breach! Customer #10 waits.
+No space or queue breach! Customer #11 waits.
+No space or queue breach! Customer #12 waits.
+No space or queue breach! Customer #13 waits.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #18 waits.
+Customer #4 got his/her luggage back.
+No space or queue breach! Customer #19 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #13 waits.
+No space or queue breach! Customer #12 waits.
+No space or queue breach! Customer #11 waits.
+No space or queue breach! Customer #10 waits.
+Customer #3 got his/her luggage back.
+No space or queue breach! Customer #19 waits.
+Customer #10 left his/her luggage.
+Customer #11 left his/her luggage.
+Customer #12 left his/her luggage.
+No space or queue breach! Customer #13 waits.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #19 waits.
+Customer #8 got his/her luggage back.
+No space or queue breach! Customer #13 waits.
+No space or queue breach! Customer #19 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #14 waits.
+Customer #10 got his/her luggage back.
+Customer #13 left his/her luggage.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #19 waits.
+Customer #2 got his/her luggage back.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #19 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #15 waits.
+Customer #0 got his/her luggage back.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #19 waits.
+Customer #9 got his/her luggage back.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #19 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #15 waits.
+Customer #7 got his/her luggage back.
+No space or queue breach! Customer #14 waits.
+No space or queue breach! Customer #15 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #19 waits.
+Customer #12 got his/her luggage back.
+Customer #14 left his/her luggage.
+No space or queue breach! Customer #19 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #16 waits.
+No space or queue breach! Customer #15 waits.
+Customer #13 got his/her luggage back.
+No space or queue breach! Customer #19 waits.
+Customer #15 left his/her luggage.
+Customer #16 left his/her luggage.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #19 waits.
+Customer #16 got his/her luggage back.
+No space or queue breach! Customer #17 waits.
+No space or queue breach! Customer #19 waits.
+No space or queue breach! Customer #18 waits.
+Customer #11 got his/her luggage back.
+Customer #17 left his/her luggage.
+No space or queue breach! Customer #18 waits.
+No space or queue breach! Customer #19 waits.
+Customer #17 got his/her luggage back.
+Customer #18 left his/her luggage.
+Customer #19 left his/her luggage.
+Customer #14 got his/her luggage back.
+Customer #18 got his/her luggage back.
+Customer #19 got his/her luggage back.
+Customer #15 got his/her luggage back.
